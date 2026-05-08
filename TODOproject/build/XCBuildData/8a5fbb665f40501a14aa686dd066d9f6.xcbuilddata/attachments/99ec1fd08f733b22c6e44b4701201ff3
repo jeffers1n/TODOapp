@@ -1,0 +1,148 @@
+{
+  "" : {
+    "diagnostics" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TODOproject-master.dia",
+    "emit-module-dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TODOproject-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TODOproject-master-emit-module.dia",
+    "swift-dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TODOproject-master.swiftdeps"
+  },
+  "/Users/tomsk/Documents/TODOproject/TODOproject/TODOproject/Models/Task.swift" : {
+    "const-values" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Task.swiftconstvalues",
+    "dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Task.d",
+    "diagnostics" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Task.dia",
+    "index-unit-output-path" : "/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Task.o",
+    "llvm-bc" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Task.bc",
+    "object" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Task.o",
+    "swift-dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Task.swiftdeps",
+    "swiftmodule" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Task~partial.swiftmodule"
+  },
+  "/Users/tomsk/Documents/TODOproject/TODOproject/TODOproject/Models/UserProfile.swift" : {
+    "const-values" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/UserProfile.swiftconstvalues",
+    "dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/UserProfile.d",
+    "diagnostics" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/UserProfile.dia",
+    "index-unit-output-path" : "/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/UserProfile.o",
+    "llvm-bc" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/UserProfile.bc",
+    "object" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/UserProfile.o",
+    "swift-dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/UserProfile.swiftdeps",
+    "swiftmodule" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/UserProfile~partial.swiftmodule"
+  },
+  "/Users/tomsk/Documents/TODOproject/TODOproject/TODOproject/TodoGameApp.swift" : {
+    "const-values" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TodoGameApp.swiftconstvalues",
+    "dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TodoGameApp.d",
+    "diagnostics" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TodoGameApp.dia",
+    "index-unit-output-path" : "/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TodoGameApp.o",
+    "llvm-bc" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TodoGameApp.bc",
+    "object" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TodoGameApp.o",
+    "swift-dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TodoGameApp.swiftdeps",
+    "swiftmodule" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TodoGameApp~partial.swiftmodule"
+  },
+  "/Users/tomsk/Documents/TODOproject/TODOproject/TODOproject/ViewModels/TaskViewModel.swift" : {
+    "const-values" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TaskViewModel.swiftconstvalues",
+    "dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TaskViewModel.d",
+    "diagnostics" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TaskViewModel.dia",
+    "index-unit-output-path" : "/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TaskViewModel.o",
+    "llvm-bc" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TaskViewModel.bc",
+    "object" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TaskViewModel.o",
+    "swift-dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TaskViewModel.swiftdeps",
+    "swiftmodule" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TaskViewModel~partial.swiftmodule"
+  },
+  "/Users/tomsk/Documents/TODOproject/TODOproject/TODOproject/ViewModels/UserProfileViewModel.swift" : {
+    "const-values" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/UserProfileViewModel.swiftconstvalues",
+    "dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/UserProfileViewModel.d",
+    "diagnostics" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/UserProfileViewModel.dia",
+    "index-unit-output-path" : "/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/UserProfileViewModel.o",
+    "llvm-bc" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/UserProfileViewModel.bc",
+    "object" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/UserProfileViewModel.o",
+    "swift-dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/UserProfileViewModel.swiftdeps",
+    "swiftmodule" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/UserProfileViewModel~partial.swiftmodule"
+  },
+  "/Users/tomsk/Documents/TODOproject/TODOproject/TODOproject/Views/AchievementsView.swift" : {
+    "const-values" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/AchievementsView.swiftconstvalues",
+    "dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/AchievementsView.d",
+    "diagnostics" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/AchievementsView.dia",
+    "index-unit-output-path" : "/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/AchievementsView.o",
+    "llvm-bc" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/AchievementsView.bc",
+    "object" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/AchievementsView.o",
+    "swift-dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/AchievementsView.swiftdeps",
+    "swiftmodule" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/AchievementsView~partial.swiftmodule"
+  },
+  "/Users/tomsk/Documents/TODOproject/TODOproject/TODOproject/Views/AddTaskView.swift" : {
+    "const-values" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/AddTaskView.swiftconstvalues",
+    "dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/AddTaskView.d",
+    "diagnostics" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/AddTaskView.dia",
+    "index-unit-output-path" : "/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/AddTaskView.o",
+    "llvm-bc" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/AddTaskView.bc",
+    "object" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/AddTaskView.o",
+    "swift-dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/AddTaskView.swiftdeps",
+    "swiftmodule" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/AddTaskView~partial.swiftmodule"
+  },
+  "/Users/tomsk/Documents/TODOproject/TODOproject/TODOproject/Views/ContentView.swift" : {
+    "const-values" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/tomsk/Documents/TODOproject/TODOproject/TODOproject/Views/ProfileView.swift" : {
+    "const-values" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/ProfileView.swiftconstvalues",
+    "dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/ProfileView.d",
+    "diagnostics" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/ProfileView.dia",
+    "index-unit-output-path" : "/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/ProfileView.o",
+    "llvm-bc" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/ProfileView.bc",
+    "object" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/ProfileView.o",
+    "swift-dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/ProfileView.swiftdeps",
+    "swiftmodule" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/ProfileView~partial.swiftmodule"
+  },
+  "/Users/tomsk/Documents/TODOproject/TODOproject/TODOproject/Views/TaskListView.swift" : {
+    "const-values" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TaskListView.swiftconstvalues",
+    "dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TaskListView.d",
+    "diagnostics" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TaskListView.dia",
+    "index-unit-output-path" : "/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TaskListView.o",
+    "llvm-bc" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TaskListView.bc",
+    "object" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TaskListView.o",
+    "swift-dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TaskListView.swiftdeps",
+    "swiftmodule" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TaskListView~partial.swiftmodule"
+  },
+  "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/DerivedSources/CoreDataGenerated/TODOproject/Item+CoreDataClass.swift" : {
+    "const-values" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Item+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Item+CoreDataClass.d",
+    "diagnostics" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Item+CoreDataClass.dia",
+    "index-unit-output-path" : "/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Item+CoreDataClass.o",
+    "llvm-bc" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Item+CoreDataClass.bc",
+    "object" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Item+CoreDataClass.o",
+    "swift-dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Item+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Item+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/DerivedSources/CoreDataGenerated/TODOproject/Item+CoreDataProperties.swift" : {
+    "const-values" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Item+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Item+CoreDataProperties.d",
+    "diagnostics" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Item+CoreDataProperties.dia",
+    "index-unit-output-path" : "/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Item+CoreDataProperties.o",
+    "llvm-bc" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Item+CoreDataProperties.bc",
+    "object" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Item+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Item+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/Item+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/DerivedSources/CoreDataGenerated/TODOproject/TODOproject+CoreDataModel.swift" : {
+    "const-values" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TODOproject+CoreDataModel.swiftconstvalues",
+    "dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TODOproject+CoreDataModel.d",
+    "diagnostics" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TODOproject+CoreDataModel.dia",
+    "index-unit-output-path" : "/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TODOproject+CoreDataModel.o",
+    "llvm-bc" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TODOproject+CoreDataModel.bc",
+    "object" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TODOproject+CoreDataModel.o",
+    "swift-dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TODOproject+CoreDataModel.swiftdeps",
+    "swiftmodule" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/TODOproject+CoreDataModel~partial.swiftmodule"
+  },
+  "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/tomsk/Documents/TODOproject/TODOproject/build/TODOproject.build/Debug-iphonesimulator/TODOproject.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
